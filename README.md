@@ -6,6 +6,8 @@ Reproducible development environment for Multiflora, built around two Docker
 containers orchestrated by `docker-compose.yml` and wired into VS Code through
 `devcontainer.json`.
 
+Shared with the devcontainerlab repository, some links won't work.
+
 ## Containers
 
 ```mermaid
